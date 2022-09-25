@@ -1,0 +1,17 @@
+body {
+  background-color: darkgrey;
+}
+
+hr {
+  background-color: inherit;
+  border-color: white;
+  border-style: dotted none none;
+  border-width: 7px;
+  width: 5%
+}
+h1 {
+  color: red;
+}
+h3 {
+  Color:red;
+}
